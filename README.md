@@ -6,6 +6,8 @@ This project presents an interactive Power BI dashboard built to analyze survey 
 
 # dataset used
 - <a href="https://github.com/ankitanandy00/data-professional-survey-powerbi/blob/main/raw%20data.xlsx">Dataset</a>
+<img width="1174" height="658" alt="Screenshot 2025-12-27 234209" src="https://github.com/user-attachments/assets/9a7b43f7-bba5-47d8-9690-2925b3307fd3" />
+
 
 # Business Objective
 
