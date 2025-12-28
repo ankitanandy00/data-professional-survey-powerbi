@@ -5,7 +5,7 @@ Beginner Power BI dashboard analyzing a global data professional survey to uncov
 This project presents an interactive Power BI dashboard built to analyze survey responses from data professionals across different countries. The dashboard highlights trends related to salary distribution, job roles, programming language preferences, career difficulty, and job satisfaction.
 
 # dataset used
-
+- <a href="https://github.com/ankitanandy00/data-professional-survey-powerbi/blob/main/raw%20data.xlsx">Dataset</a>
 
 # Business Objective
 
@@ -21,9 +21,9 @@ This analysis can be useful for aspiring data professionals, recruiters, and org
 
 
 # Tools & Technologies Used
-Power BI – Dashboard creation & visualization
-Power Query – Data cleaning and transformation
-Excel – Source data format
+1. Power BI – Dashboard creation & visualization
+2. Power Query – Data cleaning and transformation
+3. Excel – Source data format
 
 # Key Questions Answered
 
@@ -43,35 +43,33 @@ This dashboard answers the following questions:
 Loaded raw survey data into Power BI.
 
 ## Data Cleaning & Transformation
-Removed null and inconsistent values.
-Standardized job titles and categorical responses.
+- Removed null and inconsistent values.
+- Standardized job titles and categorical responses.
 
 ## Prepared data using Power Query for analysis.
-Data Modeling
-Created basic calculated measures for:
-Average salary
-Count of survey takers
-Average age
-Ensured correct aggregation and filtering behavior.
+- Data Modeling
+- Created basic calculated measures for:
+- Average salary
+- Count of survey takers
+- Average age
+- Ensured correct aggregation and filtering behavior.
 
 ## Dashboard Design
-Designed an intuitive and clean layout.
-Used appropriate visuals such as:
-Bar charts
-Donut charts
-Treemaps
-KPI cards
-Gauge visuals
+- Designed an intuitive and clean layout.
+- Used appropriate visuals such as:
+- Bar charts
+- Donut charts
+- Treemaps
+- Gauge visuals
 
 Applied consistent color themes for readability.
 Insight Generation
 Analyzed visual patterns to extract meaningful career and market insights.
 
 # Dashboard Preview
-
+- <a href="https://github.com/ankitanandy00/data-professional-survey-powerbi/blob/main/Screenshot%202025-12-27%20234209.png">Dashboard</a>
 
 # Key Insights
-
 1. Data Scientists have the highest average salary among surveyed roles.
 2. Python is the most preferred programming language across data roles.
 3. The majority of respondents feel that breaking into data is moderately difficult.
@@ -79,8 +77,7 @@ Analyzed visual patterns to extract meaningful career and market insights.
 5. Most survey responses come from the United States and India.
 
 # Value Delivered
-
-1.Converted raw survey data into actionable insights
-2.Built a complete Power BI dashboard from scratch
-3.Demonstrated understanding of BI fundamentals and business thinking
-4.Presented insights in a way suitable for non-technical stakeholders
+1. Converted raw survey data into actionable insights
+2. Built a complete Power BI dashboard from scratch
+3. Demonstrated understanding of BI fundamentals and business thinking
+4. Presented insights in a way suitable for non-technical stakeholders
